@@ -1,5 +1,5 @@
-# detect_duplicate_images_from_db
-python script to read images from db and detect the duplicate images.
+# detect_duplicated_images_from_db
+python script to read images from db and detect the duplicated images.
 
 
 
